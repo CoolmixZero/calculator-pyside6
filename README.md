@@ -28,7 +28,11 @@ a [ui](https://github.com/CoolmixZero/calculator-pyside6/tree/main/ui) directory
 Also created [.exe](https://pyinstaller.org/en/stable/usage.html)
 file with [icon](https://user-images.githubusercontent.com/107999456/185789444-dcabc8d0-a26e-4b70-a38b-dd4f2b2b71f4.png):
 
+```
+
 [Calculator.exe](https://github.com/CoolmixZero/calculator-pyside6/blob/main/app.exe)
+
+```
 
 ### Requirements
 To install [requirements.txt](https://github.com/CoolmixZero/calculator-pyside6/blob/main/requirements.txt)
