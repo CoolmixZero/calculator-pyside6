@@ -8,7 +8,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/107999456/185788738-4e70d039-117e-4e46-8418-23430229074d.png" alt="Calculator" align="right"/> -->
 
-[img alt >](https://user-images.githubusercontent.com/107999456/185788738-4e70d039-117e-4e46-8418-23430229074d.png)
+[img alt ><](https://user-images.githubusercontent.com/107999456/185788738-4e70d039-117e-4e46-8418-23430229074d.png)
 
 ### About
 This is simple cross-platform GUI Calculator written in Python.
