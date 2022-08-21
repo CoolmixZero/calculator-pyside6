@@ -6,8 +6,7 @@
 ## Calculator on [Pyside6](https://pypi.org/project/PySide6/)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CoolmixZero/calculator-pyside6)
 
-<img src="https://user-images.githubusercontent.com/107999456/185788738-4e70d039-117e-4e46-8418-23430229074d.png" height="500" alt="Calculator" align="right"/> -->
-
+<img src="https://user-images.githubusercontent.com/107999456/185788738-4e70d039-117e-4e46-8418-23430229074d.png" height="550" alt="Calculator" align="right"/>
 ### About
 This is simple cross-platform GUI Calculator written in Python.
 
