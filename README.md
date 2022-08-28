@@ -7,7 +7,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CoolmixZero/calculator-pyside6)
 
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-  
 <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
   
 <py-script>
